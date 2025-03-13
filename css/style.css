@@ -1,0 +1,161 @@
+.bg-fav{
+	background-color: aliceblue;
+}
+.bg-faf{
+	background-color: beige;
+}
+.font-fav{
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+.font-google{
+	font-family: 'Roboto', sans-serif;
+}
+.font-space{
+	font-family: 'Orbitron', sans-serif;
+}
+.audiowide-regular {
+  font-family: "Audiowide", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-slab {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.titillium-web-extralight {
+  font-family: "Titillium Web", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.titillium-web-light {
+  font-family: "Titillium Web", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.titillium-web-regular {
+  font-family: "Titillium Web", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titillium-web-semibold {
+  font-family: "Titillium Web", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.titillium-web-bold {
+  font-family: "Titillium Web", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.titillium-web-black {
+  font-family: "Titillium Web", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.titillium-web-extralight-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.titillium-web-light-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.titillium-web-regular-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.titillium-web-semibold-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.titillium-web-bold-italic {
+  font-family: "Titillium Web", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+.kaushan-script-regular {
+  font-family: "Kaushan Script", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#logo_img{
+	width:400px;
+	border-radius: 10%;
+}
+#textbox{
+	width:350px;
+	height: 75px;
+}
+#start-btn{
+	width: 55%;
+}
+#camera{
+	height: 350px;
+	width: 470px;
+	border: 3px dashed #17B8A6;
+  overflow: hidden;
+}
+.toptext{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.lbl{
+  font-size: 40px;
+}
+#result{
+  height: 350px;
+  width: 480px;
+  border: 3px dashed #17B8A6;
+  overflow: hidden;
+}
+.sour-gummy {
+  font-family: "Sour Gummy", serif;
+  font-optical-sizing: auto;
+  color: #17B8A6;
+}
+.vibur-regular {
+  font-family: "Vibur", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.big-shoulders-stencil {
+  color: cornsilk;
+  font-family: "Big Shoulders Stencil", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.afacad-flux {
+  color: aliceblue;
+  font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+}
+.playwrite-hu {
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
